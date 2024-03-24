@@ -73,7 +73,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `email`, `password`, `fname`, `lname`, `gender`, `dob`, `contact`, `address`, `image`, `created_on`, `group_id`) VALUES
-(1, 'mayurik', 'mayuri.infospace@gmail.com', 'aa7f019c326413d5b8bcad4314228bcd33ef557f5d81c7cc977f7728156f4357', 'Mayuri', 'K', 'Female', '1992-05-28', '+919090909090', 'Nashik', 'young-woman-avatar-facial-features-stylish-userpic-flat-cartoon-design-elegant-lady-blue-jacket-close-up-portrait-80474088.jpg', '2018-04-30', 1);
+(1, 'mayurik', 'natty.infospace@gmail.com', 'aa7f019c326413d5b8bcad4314228bcd33ef557f5d81c7cc977f7728156f4357', 'Mayuri', 'K', 'Female', '1992-05-28', '+919090909090', 'Nashik', 'young-woman-avatar-facial-features-stylish-userpic-flat-cartoon-design-elegant-lady-blue-jacket-close-up-portrait-80474088.jpg', '2018-04-30', 1);
 
 -- --------------------------------------------------------
 
@@ -152,7 +152,7 @@ CREATE TABLE `manage_website` (
 --
 
 INSERT INTO `manage_website` (`id`, `title`, `short_title`, `logo`, `footer`, `currency_code`, `currency_symbol`, `login_logo`, `invoice_logo`, `background_login_image`) VALUES
-(1, 'Crunch Fitness GMS - Mayuri K.', 'Crunch Fitness', 'admin mayuri Logo.jpg', 'Mayuri K. - Freelancer', 'INR', 'â‚¹', 'admin mayuri Logo.jpg', 'admin mayuri Logo.jpg', 'MfnlsE1r5E.jpg');
+(1, 'Crunch Fitness GMS - Mayuri K.', 'Crunch Fitness', 'admin  Logo.jpg', 'Stephanie', 'KES', 'Ksh', 'admin  Logo.jpg', 'admin  Logo.jpg', 'MfnlsE1r5E.jpg');
 
 -- --------------------------------------------------------
 

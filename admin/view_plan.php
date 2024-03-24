@@ -59,7 +59,7 @@
                      <td><?php echo $row['planName'] ?></td>
                      <td width='380'><?php echo $row['description'] ?></td>
                      <td><?php echo$row['validity'] ?></td>
-                     <td> ₹<?php echo $row['amount']?> </td>
+                     <td> Ksh<?php echo $row['amount']?> </td>
                   
                   
                   
