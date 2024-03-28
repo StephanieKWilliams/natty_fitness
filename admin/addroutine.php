@@ -54,7 +54,7 @@ include('../constant/connect.php');
 
                                         <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Monday</label>
+                                                <label class="col-sm-3 control-label">DAY 1</label>
                                                 <div class="col-sm-9">
                                                   <textarea name="day1" id="textarea" class="form-control" ></textarea>
                                                 </div>
@@ -63,7 +63,7 @@ include('../constant/connect.php');
                                         
                                         <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Tuesday</label>
+                                                <label class="col-sm-3 control-label">DAY 2</label>
                                                 <div class="col-sm-9">
                                                <textarea name="day2" id="textarea" class="form-control" ></textarea>
                                                 </div>
@@ -72,7 +72,7 @@ include('../constant/connect.php');
 
                                        <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Wednesday</label>
+                                                <label class="col-sm-3 control-label">DAY 3</label>
                
                                                 <div class="col-sm-9">
                                                 <textarea name="day3" id="textarea" class="form-control" ></textarea>
@@ -82,7 +82,7 @@ include('../constant/connect.php');
 
                                       <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Thursday</label>
+                                                <label class="col-sm-3 control-label">DAY 4</label>
                                                 <div class="col-sm-9">
                                                 <textarea name="day4" id="textarea" class="form-control"></textarea>
                                                 </div>
@@ -90,14 +90,14 @@ include('../constant/connect.php');
                                         </div>
                                         <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Friday</label>
+                                                <label class="col-sm-3 control-label">DAY 5</label>
                                                 <div class="col-sm-9">
                                                 <textarea name="day5" id="textarea" class="form-control" ></textarea>
                                                 </div>
                                             </div>
                                         </div><div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Saturday</label>
+                                                <label class="col-sm-3 control-label">DAY 6</label>
                                                 <div class="col-sm-9">
                                                     <textarea name="day6" id="textarea" class="form-control"></textarea>
                                                 </div>
